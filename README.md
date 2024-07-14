@@ -4,7 +4,7 @@
 > Open this page at [https://isawesom3.github.io/spaceshipgame2/](https://isawesom3.github.io/spaceshipgame2/)
 >
 
-###### how to 
+###### instructions
 
 your a spaceship. press space to shoot info to sattlites and watch out for meteors!
  to move use WASD or arrow keys

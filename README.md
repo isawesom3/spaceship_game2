@@ -3,14 +3,6 @@
 
 > Open this page at [https://isawesom3.github.io/spaceshipgame2/](https://isawesom3.github.io/spaceshipgame2/)
 
-## Use as Extension
-
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/isawesom3/spaceshipgame2** and import
 
 ## Edit this project ![Build status badge](https://github.com/isawesom3/spaceshipgame2/workflows/MakeCode/badge.svg)
 

@@ -4,7 +4,7 @@
 > Open this page at [https://isawesom3.github.io/spaceshipgame2/](https://isawesom3.github.io/spaceshipgame2/)
 >
 
-### how to play
+############### how to play
 
 
 ## Edit this project

@@ -20,8 +20,6 @@ To edit this repository in MakeCode.
 
 ## Blocks preview
 
-This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
+This image shows the blocks code
 
-![A rendered view of the blocks](https://github.com/isawesom3/spaceshipgame2/raw/master/.github/makecode/blocks.png)
-
+![Screenshot 2024-07-14 4 42 23 PM](https://github.com/user-attachments/assets/b8fc3eee-b4f0-4c36-ae45-daf93ed83e9f)
